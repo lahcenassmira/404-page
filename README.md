@@ -12,3 +12,5 @@ A simple, clean, and responsive 404 error page for websites. This page is design
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/lahcenassmira/404-page.git
+
+## Made with ❤️ by Lahcen Assmira
